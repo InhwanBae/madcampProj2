@@ -1,0 +1,16 @@
+{
+  "name": "madcampProj2Server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "express": "4.14.0",
+    "mime": "^2.4.0",
+    "multer": "~0.1.6",
+    "multiparty": "^4.2.1",
+    "mysql": "2.11.1"
+  }
+}
